@@ -5,7 +5,7 @@ Este repositório contém um **Gerador de cores**. O Gerador de cores foi coloca
 ## 🖼️ Capturas de Tela
 
 ### Página Inicial
-![HomePage]([https://i.ibb.co/tKRr5Gt/imagem-2024-11-05-204024345.png](https://i.ibb.co/nsGWsCh/Screenshot-3.png))
+![HomePage](https://i.ibb.co/nsGWsCh/Screenshot-3.png)
 
 
 ## 💻 Tecnologias Utilizadas
@@ -22,10 +22,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 1. **Clone o repositório**:
    ```bash
    https://github.com/doshino/RadiantColors.git
-Acesse o diretório do projeto:
 
 2. **Executa pelo Pages GitHub**:
   [Clique aqui!](https://github.com/doshino/RadiantColors.git)
 
-##📝 Licença
-Este projeto foi é um clone e foi desenvolvido por outra pessoa.
+
+## 📝 Licença
+Este projeto foi é uma copia e foi desenvolvido por outra pessoa.
