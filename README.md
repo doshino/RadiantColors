@@ -24,7 +24,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
    https://github.com/doshino/RadiantColors.git
 
 2. **Executa pelo Pages GitHub**:
-  [Clique aqui!](https://github.com/doshino/RadiantColors.git)
+  [Clique aqui!](https://doshino.github.io/RadiantColors/)
 
 
 ## 📝 Licença
