@@ -28,4 +28,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 
 ## 📝 Licença
-Este projeto foi é uma copia e foi desenvolvido por outra pessoa.
+Este projeto é uma copia e foi desenvolvido por outra pessoa.
